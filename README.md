@@ -1,6 +1,6 @@
-# WEBXR Testbed
+# WebXR Unity Testbed
 
-Fully working instance of WebXR + VRTK.
+Fully working instance of WebXR + VRTK, using the Unity WebXR exporter.
 
 The result of completing the FusedVR WebXR tutorials:
 - [Part 1](https://www.youtube.com/watch?v=nPAHZ9Rm8d4&t=0s)
