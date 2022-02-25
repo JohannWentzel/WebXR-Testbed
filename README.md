@@ -8,11 +8,13 @@ The result of completing the FusedVR WebXR tutorials:
 
 # Dependencies
 
+- [VRTK](https://vrtoolkit.readme.io/)
+- [De-Panther Unity WebXR Exporter](https://github.com/De-Panther/unity-webxr-export)
 - nodejs
 - openssl
 - npm
 - [nodejs http-server](https://www.npmjs.com/package/http-server)
-- Git Bash (already has tools to build https certs built in)
+- Git Bash (usually installed with Git, already has tools to build https certs built in)
 
 # Usage
 
